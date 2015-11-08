@@ -1,1 +1,1 @@
-include ':SampleRetrofit', ':SampleGlide'
+include ':SampleRetrofit', ':SampleGlide', ':SampleLayoutStatus'

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleLayoutStatus</string>
+    <string name="loading">Loading</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="again">Again</string>
+    <string name="hidden">Hidden</string>
+</resources>
